@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: url(images/dhoni.jpg);
+    background-position: center;
+    background-size: 3450px;
+}
+#name{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aliceblue;
+    
+}
+a:hover{
+    color: rgb(58, 221, 58);
+    
+}
+a:active{
+    font-size: large;
+    color:red
+}
+a{
+    color: rgb(15, 241, 241);
+    padding: 100px;
+}
+footer{
+
+    color: aliceblue;
+    text-align:left;
+}
+.crick{
+    color: aliceblue;
+    text-align: center;
+}
+#cric{
+    margin: 10px 10px;
+    color: whitesmoke;
+    text-align:left;
+
+}
+#home{
+    text-align: left;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+}
+#about{
+    text-align: left;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+
+}
+#Carrier{
+    text-align: left;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+}
+#stats{
+    text-align:left;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+}
+#stat{
+    text-align: center;
+    padding: 5px;
+    table-layout: fixed;
+    border-spacing: 15px;
+    border-color: aliceblue;
+    margin: auto;
+}
+#gallery{
+    display: block;
+    border: 2px double wheat;
+    margin: 5px;
+}
+#gallery img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+#gallery.hover{
+    border: 2px solid rgb(247, 164, 10);
+}
+
+
